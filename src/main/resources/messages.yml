@@ -1,0 +1,17 @@
+anketa:
+  - "<green><bold>ODKUD SES DOZVĚDEL O NAŠEM NETWORKU?</bold></green>"
+  - " "
+  - "   <gradient:#de8c9d:#fe2858:#2af0ea:#397684><click:run_command:/anketa 1>TikTok</click></gradient>"
+  - "   <gradient:#feda75:#fa7e1e:#d62976:#962fbf:#4f5bd5><click:run_command:/anketa 2>Instagram</click></gradient>"
+  - "   <color:#ff0000><click:run_command:/anketa 3>YouTube</click></color>"
+  - "   <gradient:#ffffff:#f6871f><click:run_command:/anketa 4>CzechCraft.cz</click></gradient>"
+  - "   <gradient:#00a3ff:#ffffff><click:run_command:/anketa 5>CraftList.org</click></gradient>"
+  - "   <gradient:#ff8243:#ffffff><click:run_command:/anketa 6>Minecraft-List.cz</click></gradient>"
+  - "   <blue><click:run_command:/anketa 7>Jiné...</click></blue>"
+  - " "
+  - "   <gray>»</gray> Hlasovat můžeš pomocí kliknutím!"
+  - "   <gray>»</gray> Za odpověď získaž <color:#ff9214><b>10 PvPCoinů</b></color>"
+
+already-voted: "<red><bold>Už jsi hlasoval/a!</bold></red>"
+voted: "<green><bold>Děkujeme za tvůj hlas! Onedlouho ti přistane 10 pvpcoinů <3</bold></green>"
+not-loaded: "<red><bold>Tvůj účet nebyl načten. Vyčkej prosím chvíli a zkuste to znovu.</bold></red>"

@@ -1,0 +1,15 @@
+options:
+  1: "TikTok"
+  2: "Instagram"
+  3: "YouTube"
+  4: "CzechCraft.cz"
+  5: "CraftList.org"
+  6: "Minecraft-List.cz"
+  7: "Jiné..."
+
+database:
+  host: "localhost"
+  port: 3306
+  username: "root"
+  password: "password"
+  database: "database"
