@@ -49,23 +49,3 @@ Contributions, improvements, and fixes are welcome.
 2. Copy the generated `.jar` file into your Minecraft server `plugins/` folder.
 
 3. Restart the server.
-
----
-
-## Compatibility
-
-This plugin was developed for a Bukkit/Spigot-based Minecraft server.
-
-Compatibility with newer Minecraft versions is not guaranteed.
-
----
-
-## Contributing
-
-Pull requests are welcome if you would like to improve the plugin or make it compatible with modern Minecraft server versions.
-
----
-
-## License
-
-This project is provided as-is for educational and experimental purposes.
